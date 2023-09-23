@@ -1,0 +1,6 @@
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\bin\Debug\BirtService.dll
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\bin\Debug\BirtService.pdb
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\obj\Debug\BirtService.csproj.AssemblyReference.cache
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\obj\Debug\BirtService.csproj.CoreCompileInputs.cache
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\obj\Debug\BirtService.dll
+C:\GIT_Resources\Test Proj\WorkProj\BirtService\obj\Debug\BirtService.pdb
